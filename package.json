@@ -1,0 +1,12 @@
+{
+  "name": "CRUD",
+  "version": "1.0.0",
+  "description": "projeto crud mysql+node",
+  "main": "index.js",
+  "author": "Marcio Rodrigo",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^3.1.0",
+    "sequelize": "^6.28.0"
+  }
+}
